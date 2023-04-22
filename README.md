@@ -8,4 +8,8 @@ Mickaël Carreiro (carm2132)
 
 ## Description 
 
-Prototype de jeu implémentant un système de visibilité en fonction de l'illumination de la scène
+Prototype de jeu sous Unreal Engine 5.1 implémentant un système de visibilité en fonction de l'illumination de la scène
+
+## Référence
+
+Inspiration et référence pour le calcul de visibilité : https://github.com/hippowombat/AdvancedLights
